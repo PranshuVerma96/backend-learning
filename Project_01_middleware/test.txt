@@ -1,0 +1,4 @@
+Schema - define structure 
+
+schema - model 
+ using model we do curd operation 

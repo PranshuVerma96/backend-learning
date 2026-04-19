@@ -1,0 +1,16 @@
+// Rest api  design  json data
+//  data we get from the mockaroo.com websit this provide rendom data 
+GET/users = HTML Document Render =>done
+GET/api/users = list all users json => Done
+
+//dyanmic path parameters 
+GET/ api/users/:id (id = variable)
+GET/users/1 = return first user
+GET/ user/2 = get user with id 2  => done
+
+
+POST/users = create the new user
+
+PATCH/user/id = edit the user with id 2
+
+DELETE/users/1 = Delete the user wiht id 1

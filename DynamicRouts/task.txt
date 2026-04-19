@@ -1,0 +1,9 @@
+initalixe a project 
+
+express install 
+dyanmic routing 
+how to get data coming from frontent aot backend route 
+
+setting up parsers for form 
+sitting up ejs 
+setting up public file
